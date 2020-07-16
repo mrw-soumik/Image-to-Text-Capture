@@ -1,7 +1,11 @@
-# Image-to-Text-Capture
+# Image to Text Capture
 
 This tool gives users the ability to take a screenshot and copy to the clipboard the text content of the screenshot. Works on Windows, macOS, and 
 most modern Linux distros.
+
+![TextShot Demo](https://i.imgur.com/Z0Ng13S.gif)
+
+
 
 Use
 Running textshot.py will open an overlay over the screen, where a rectangle can be drawn over the portion of the screen containing the text the user wishes to copy.
